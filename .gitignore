@@ -1,0 +1,45 @@
+# VirtualBox machines, disks, and appliances
+*.vdi
+*.vhd
+*.vhdx
+*.vmdk
+*.ova
+*.ovf
+*.vbox
+*.vbox-prev
+*.sav
+
+# Operating-system installation media
+*.iso
+
+# Secrets and credentials
+.env
+.env.*
+*.key
+*.pem
+*.pfx
+*.p12
+*.cer
+*password*
+*credentials*
+*secret*
+*token*
+
+# Backups
+Backups/
+*.bak
+*.backup
+
+# Logs, transcripts, and temporary files
+*.log
+*.tmp
+*.temp
+PowerShell_transcript*
+
+# Windows metadata
+Thumbs.db
+Desktop.ini
+
+# Private and unedited evidence
+Screenshots/Original/
+docs/images/private/
